@@ -8,5 +8,6 @@ public class SpringGitApplication {
         ApplicationContext context=new ClassPathXmlApplicationContext("applicationContext.xml");
         System.out.println("Hello Git");
         System.out.println("update1");
+        System.out.println("update2");
     }
 }
